@@ -10,7 +10,7 @@ from werkzeug.utils import secure_filename
 
 
 app = Flask(__name__)
-
+# Model loading via pre-trained weights
 
 model =load_model('BrainTumor10Epochs.h5')
 print('Model loaded. Check http://127.0.0.1:5000/')
