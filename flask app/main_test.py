@@ -4,7 +4,6 @@ from tensorflow.keras.models import load_model
 import numpy as np
 from PIL import Image
 
-
 model = load_model("BrainTumor10Epochs.h5")
 
 image = cv2.imread("datasets\pred\pred8.jpg")
