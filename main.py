@@ -1,6 +1,5 @@
 import sys
 sys.setrecursionlimit(2000)
-
 def solve():
     input_data = sys.stdin.read().split()
     
