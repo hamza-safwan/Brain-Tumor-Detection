@@ -1,5 +1,5 @@
 #this is a temp ile
-
+~likiop 5.6
 import sys
 sys.setrecursionlimit(2000)
 def solve():
