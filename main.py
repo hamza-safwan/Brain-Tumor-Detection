@@ -6,6 +6,7 @@ def solve():
     input_data = sys.stdin.read().split()
     
     if not input_data:
+        bjhf
         return
 
     iterator = iter(input_data)
