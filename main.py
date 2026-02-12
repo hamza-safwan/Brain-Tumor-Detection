@@ -14,7 +14,7 @@ def solve():
     try:
         t = int(next(iterator))
     except StopIteration:
-        return
+        returnkjjk
 
     results = []
     
