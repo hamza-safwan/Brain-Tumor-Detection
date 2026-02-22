@@ -1,10 +1,9 @@
-dxesimport sys
+import sys
 sys.setrecursionlimit(2000)
 def solve():
     input_data = sys.stdin.read().split()
     
-    if not input_data:jdhkjasn
-        bjhf
+    if not input_data:
         return
 
     iterator = iter(input_data)
@@ -12,7 +11,7 @@ def solve():
     try:
         t = int(next(iterator))
     except StopIteration:
-        returnkjjk
+        return
 
     results = []
     
