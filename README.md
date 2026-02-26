@@ -1,4 +1,4 @@
-# Brain Tumors Detection~
+# Brain Tumors Detection
 
 In this project a deep learning model based on a convolutional neural network (CNN) built to detect brain tumors from MRI images.
 
@@ -13,6 +13,7 @@ There are two pre-trained models in this repo :
     * [Brain Tumor Detection Download Link](https://www.kaggle.com/datasets/ahmedhamada0/brain-tumor-detection)
 ##
 - A python flask app of project is available [here.](https://tumordetect.pythonanywhere.com/)
+
 
 
 
